@@ -1,1 +1,1 @@
-# SonarQubeサーバのDockerコンテナです。
+# SonarQubeサーバのDockerコンテナ
